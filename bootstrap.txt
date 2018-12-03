@@ -1,0 +1,57 @@
+<!Doctype html>
+<html>
+    <head>
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+            <!-- jQuery library -->
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+            
+            <!-- Latest compiled JavaScript -->
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <title>
+            Bootstrap 
+           
+        </title>
+    </head>
+    <body>
+           
+            <button type="button" class="btn btn-primary">Primary</button>
+            <button type="button" class="btn btn-success">Click me</button>
+            <button type="button" class="btn btn-primary btn-lg">Large button</button>
+  <button type="button" class="btn btn-default btn-lg">Large button</button>
+<input class="btn btn-default" type="button" value="Input">
+<div class="container">
+
+<div class="jumbotron">
+        <h1> This is a jumbotron</h1>
+    dbfh sfv fvhg dfjhdv gb djsdkfsd
+    <button type="button" class="btn btn-success">Click me</button>
+</div>
+Bootstrap
+
+<form>
+       
+          <label for="exampleInputEmail1">Email address</label>
+          <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+        
+        
+          <label for="exampleInputPassword1">Password</label>
+          <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
+        
+        
+          <label for="exampleInputFile">File input</label>
+          <input type="file" id="exampleInputFile">
+          <p class="help-block">Example block-level help text here.</p>
+        
+        
+          <label>
+            <input type="checkbox"> Check me out
+          </label>
+       
+        <button type="submit" class="btn btn-default">Submit</button>
+      </form>
+    </div>
+</body>
+    </body>
+    </html>
+

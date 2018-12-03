@@ -1,0 +1,63 @@
+<!Doctype html>
+<html>
+    <head>
+            <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+            <!-- jQuery library -->
+            <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+            
+            <!-- Latest compiled JavaScript -->
+            <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+        <title>
+            Bootstrap 
+            
+           
+        </title>
+        <style type="text/css">
+            .pink
+            {
+                background: pink;
+                border:1px solid purple;
+            }
+            .al
+            {
+                text-align: center
+            }
+            .orange
+            {
+                background: orange;
+                border: 1px solid blue;
+                height: 50px;
+            }
+            </style>
+    </head>
+    <body>
+        <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6  pink al" >
+                    <div class="row">
+                            <div class="col-lg-6 orange" > hey</div>
+                             <div class="col-lg-6  orange" > there</div>
+                    </div>
+                </div>
+                    <div class="col-lg-3 col-md-6  pink" > length-6</div>
+                    <div class="col-lg-3 col-md-6  pink" > length-6</div>
+                    <div class="col-lg-3 col-md-6  pink" > length-6</div>
+                    </div>
+                    </div>
+
+                     <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6  pink al" >
+                    <div class="row">
+                            <div class="col-lg-6 orange" > hey</div>
+                             <div class="col-lg-6  orange" > there</div>
+                    </div>
+                </div>
+                    <div class="col-lg-3 col-md-6  pink" > length-6</div>
+                    <div class="col-lg-3 col-md-6  pink" > length-6</div>
+                    <div class="col-lg-3 col-md-6  pink" > length-6</div>
+                    </div>
+                    </div>
+    </body>
+</html>

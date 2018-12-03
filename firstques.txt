@@ -1,0 +1,40 @@
+<!doctype.html>
+<html>
+<head>
+<title> FirstQuiz </title>
+</head>
+<h1> Thing's I have learn </h1>
+<h2>Internet Basics </h2>
+<ol>
+<li>Http request </li>
+<li>ip address </li>
+<li>servers</li>
+</ol>
+<h2>
+HTML 
+</h2>
+
+<ul>
+<li>stand for <strong>hypertext markup language</strong> </li>
+<li> lots of loop
+<ul>
+<li>Boilerplate</li>
+<ol>
+<li> doctype </li>
+<li> html </li>
+<li> head </li>
+<ol>
+<li> title </li>
+</ol>
+<li> body </li>
+</ol>
+<li> heading </li>
+<li> paragraph </li>
+<li> em </li>
+<li> strong </li>
+</ul>
+
+<body>
+
+</body>
+</html>
